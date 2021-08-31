@@ -1,2 +1,1 @@
-# class-32
-trajectory
+# AngryBirdsStage7
